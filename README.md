@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud enigneer, Cloud architect, software engineer, network engineer and security, UX Design, and more 
 - 🌱 I’m currently learning cloud specialist aka aws cloud courses 
 - 💞️ I’m looking to collaborate on mmany IT developers and companies so i can expand my experience and connection 
-- 📫 How to reach me ? through linkedin https://www.linkedin.com/in/sam-d-64812a196/](https://www.linkedin.com/in/oussama-djellab/
+- 📫 How to reach me ? through linkedin (https://www.linkedin.com/in/oussama-djellab/
 
 
 <!---
