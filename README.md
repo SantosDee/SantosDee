@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Osama knows as Santos a self taught Developer 
+- 👋 Hi, I’m sam knows as Santos a self taught Developer 
 - 👀 I’m interested in Cloud enigneer, Cloud architect, software engineer, network engineer and security, UX Design, and more 
 - 🌱 I’m currently learning cloud specialist aka aws cloud courses 
 - 💞️ I’m looking to collaborate on mmany IT developers and companies so i can expand my experience and connection 
